@@ -1,4 +1,5 @@
 # simple-snake-game
+<img src='https://github.com/pejmanbtc/simple-snake-game/assets/95918753/bce6d9de-3168-4a7f-b10b-237f5f179b23'>
 
 ## Introduction
 
